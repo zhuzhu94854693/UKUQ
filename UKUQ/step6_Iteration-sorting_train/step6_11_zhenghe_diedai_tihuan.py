@@ -56,7 +56,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.20.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+713}\n")
+        file.write(f"{filename_A}: pixel_count = {index+535}\n")
 
 
 
@@ -114,7 +114,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.30.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+1425}\n")
+        file.write(f"{filename_A}: pixel_count = {index+1068}\n")
 
 
 
@@ -175,7 +175,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.40.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+2137}\n")
+        file.write(f"{filename_A}: pixel_count = {index+1601}\n")
 
 
 
@@ -236,7 +236,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.50.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+2849}\n")
+        file.write(f"{filename_A}: pixel_count = {index+2135}\n")
 
 
 
@@ -297,7 +297,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.60.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+3561}\n")
+        file.write(f"{filename_A}: pixel_count = {index+2668}\n")
 
 
 
@@ -358,7 +358,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.70.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+4273}\n")
+        file.write(f"{filename_A}: pixel_count = {index+3201}\n")
 
 
 
@@ -419,7 +419,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.80.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+4985}\n")
+        file.write(f"{filename_A}: pixel_count = {index+3735}\n")
 
 
 
@@ -480,7 +480,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_0.90.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+5697}\n")
+        file.write(f"{filename_A}: pixel_count = {index+4268}\n")
 
 
 
@@ -541,7 +541,7 @@ sorted_pixel_counts = sorted(pixel_counts, key=lambda x: x[1])
 
 with open(r'D:/zly/daima/sample/gongkai/result/diedai/train_sorted_all.txt', 'w') as file:
     for index, (filename_A, pixel_count) in enumerate(sorted_pixel_counts, start=1):
-        file.write(f"{filename_A}: pixel_count = {index+6409}\n")
+        file.write(f"{filename_A}: pixel_count = {index+4801}\n")
 
 
 
